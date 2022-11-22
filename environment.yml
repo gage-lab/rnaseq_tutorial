@@ -1,0 +1,16 @@
+name: rnaseq_tutorial
+channels:
+  - conda-forge
+  - bioconda
+  - nodefaults
+dependencies:
+ - r-base==4.2.1
+ - r-essentials
+ - radian
+ - r-languageserver
+ - bioconductor-airway
+ - bioconductor-deseq2
+ - bioconductor-tximeta
+ - bioconductor-tximport
+ - bioconductor-vsn
+ - r-pheatmap
