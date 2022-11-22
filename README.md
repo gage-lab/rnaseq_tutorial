@@ -4,7 +4,7 @@ A repository to follow [RNA-seq workflow: gene-level exploratory analysis and di
 
 ## Getting started
 
-Create the conda env
+Create the conda env (requires mamba to be installed)
 
 ```bash
 mamba env create -f environment.yml
